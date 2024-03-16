@@ -1,0 +1,6 @@
+{
+  "signin_google": "Registra't amb Google",
+  "signin_apple": "Registra't amb Apple",
+  "signin_error": "Hi ha hagut un error al iniciar. Sisplau, prova-ho una altra vegada",
+  "signin_not_available": "Autenticació no disponible"
+}

@@ -1,0 +1,6 @@
+{
+  "signin_google": "Regístrate con Google",
+  "signin_apple": "Regístrate con Apple",
+  "signin_error": "Ha habido un error al acceder. Por favor, inténtalo otra vez",
+  "signin_not_available": "Autenticación no disponible"
+}
