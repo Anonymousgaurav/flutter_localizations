@@ -14,6 +14,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Localizations',
       supportedLocales: AppLocalizations.supportedLocales,
       localizationsDelegates: const [
+    // GlobalMaterialLocalizations.delegate – provides localized messages for the Material widgets.
+    // GlobalCupertinoLocalizations.delegate – provides localized messages for Cupertino widgets.
+    // GlobalWidgetsLocalizations.delegate – provides text direction for widgets.
         AppLocalizations.delegate,
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,
